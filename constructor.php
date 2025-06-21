@@ -9,10 +9,12 @@
 */
 
 class Shobuj {
+    protected $name = "Shakib";
     // Call at initial object create
     function __construct(){
         // Call another method inside a method
-        $this->print_my_name();
+        echo $this->name;
+        // $this->print_my_name();
     }
 
     function print_my_name()
