@@ -2,6 +2,7 @@
 
 /**
  * Inheritance
+ * Can only extend one single class
  */
 
 class Ratnar_Maa {

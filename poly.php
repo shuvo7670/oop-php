@@ -24,4 +24,3 @@ function speak(Animal $animal) {
 
 speak(new Dog()); // Output: Bark
 speak(new Cat()); // Output: Meow
-
